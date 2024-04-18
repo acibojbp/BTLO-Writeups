@@ -10,6 +10,10 @@ _The information presented here is for educational purposes only. It is crucial 
 
 _All information presented in this repository is sourced from the respective course's materials._
 
+## Contents
+- [Solution](#solution)  
+- [Answers](#answers)
+
 ## Solution
 
 Here, we will analyze the email received by the Army Major on Earth in hopes of finding clues about the whereabouts of the missing people. At the end of the challenge, we should be able to answer all the questions. To begin, we must first download the .eml file.
@@ -168,6 +172,27 @@ Based on the email headers, we've identified the `Reply-To` email address as tie
 
 Ans: `pashter.com`
 
+---
+
+## Answers
+
+**What is the email service used by the malicious actor?**  
+`emkei.cz`
+
+**What is the Reply-To email address?**  
+`negeja3921@pashter.com`
+
+**What is the filetype of the received attachment which helped to continue the investigation?**  
+`.zip`
+
+**What is the name of the malicious actor?**  
+`Pestero Negeja`
+
+**What is the location of the attacker in this Universe?**  
+`The Martian Colony, Beside Interplanetary Spaceport`
+
+**What could be the probable C&C domain to control the attacker’s autonomous bots?**  
+`pashter.com`
 
 
 
