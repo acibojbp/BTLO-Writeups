@@ -10,4 +10,5 @@ _The content provided in this repository reflects my personal experiences, inter
 
 ## Contents
 
-The Planets Prestige
+[The Planet's Prestige](./Challenges/the-planets-prestige.md)
+
